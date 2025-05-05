@@ -1,0 +1,5 @@
+cmake
+g++
+libpng-dev
+build-essential
+git
