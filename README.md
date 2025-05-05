@@ -111,4 +111,3 @@ This project is licensed under the **Apache License 2.0** - see the [LICENSE](LI
 - [dlib](http://dlib.net/): For facial landmark detection.
 - [OpenCV](https://opencv.org/): For computer vision tasks.
 - [TensorFlow](https://www.tensorflow.org/): For deep learning-based recognition.
-- Contributors and other open-source projects that made this project possible.
